@@ -2,13 +2,13 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "seminlog",
-    image: "https://notion-avatar.vercel.app/api/svg/eyJmYWNlIjo5LCJub3NlIjoxLCJtb3V0aCI6MTEsImV5ZXMiOjIsImV5ZWJyb3dzIjowLCJnbGFzc2VzIjowLCJoYWlyIjoyNywiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "notion-avatar-1713529895719.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "NLP, Prompt Engineering, AI ",
     bio: "",
     email: "semin021126@gmail.com",
-    linkedin: "Semin Lim",
-    github: "www.linkedin.com/in/semin-lim-a289362b6",
-    instagram: "@juliejoy__",
+    linkedin: "semin-lim",
+    github: "juliejoyy",
+    instagram: "juliejoy__",
   },
   projects: [
     {
