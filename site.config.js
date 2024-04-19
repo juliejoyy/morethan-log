@@ -4,7 +4,7 @@ const CONFIG = {
     name: "seminlog",
     image: "https://notion-avatar.vercel.app/api/svg/eyJmYWNlIjo5LCJub3NlIjoxLCJtb3V0aCI6MTEsImV5ZXMiOjIsImV5ZWJyb3dzIjowLCJnbGFzc2VzIjowLCJoYWlyIjoyNywiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "NLP, Prompt Engineering, AI ",
-    bio: " I study NLP, Prompt Engineering, AI",
+    bio: "",
     email: "semin021126@gmail.com",
     linkedin: "Semin Lim",
     github: "juliejoyy",
